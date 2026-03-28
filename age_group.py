@@ -1,6 +1,6 @@
 # Ask for name and age 
 name = input("Enter your name: ")
-age = int(input("Enter your age"))
+age = int(input("Enter your age: "))
 # Determine age group
 if age <= 12:
     group = "child"
